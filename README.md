@@ -24,7 +24,7 @@ Docs for both js [click here](https://greensock.com/docs/)
       crossorigin="anonymous"
 ></script>
 
-## Script tags for TimelineMax.js
+## Script tags for TweenMax.js
 
 <script
       src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TimelineMax.min.js"
