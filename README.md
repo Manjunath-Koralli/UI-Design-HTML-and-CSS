@@ -5,10 +5,10 @@ If you are team of 3 to 5 people, each individual work and description can shown
 
 # GSAP
 
-[gsap](https://cdnjs.com/libraries/gsap) was used for animations.
+[gsap](https://cdnjs.com/libraries/gsap) is used for animations.
 It animates anything JavaScript can touch (CSS properties, canvas library objects, SVG, generic objects, whatever) and it solves lots of browser inconsistencies, all with blazing speed.
 
-For more details [WHY gsap](http://greensock.com/why-gsap/)
+For more details [why gsap](http://greensock.com/why-gsap/)
 
 # TimelineMax.js and TweenMax.js
 
